@@ -1,2 +1,2 @@
 # skyline-tech
-for obidient tech assignment
+This is cohort 21 details that are approved
