@@ -1,2 +1,2 @@
 # skyline-tech
-for obidient tech assignment
+Cohort 21 student details and passcode
